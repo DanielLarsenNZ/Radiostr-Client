@@ -1,0 +1,14 @@
+{
+  "name": "Radiostr.Client",
+  "version": "0.0.0",
+  "description": "Radiostr.Client",
+  "main": "server.js",
+  "author": {
+    "name": "dlarsen",
+    "email": ""
+  },
+  "dependencies" :
+  {
+  }
+
+}
