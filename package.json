@@ -7,8 +7,9 @@
     "name": "dlarsen",
     "email": ""
   },
-  "dependencies" :
-  {
+  "dependencies":{
+      "request":"*",
+      "file":"*"
   }
 
 }
